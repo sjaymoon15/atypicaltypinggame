@@ -1,20 +1,17 @@
 body{
   font-size: 12px;
   font-family: "Lato", sans-Serif; 
-  
+  text-align: center;
   background-color: #66ccff;
 }
 h1{
   font-size: 5em;
-  text-align: center;
   font-weight: bold;
   font-weight: 900;
 }
 p{
   font-size: 3.5em;
-  text-align: center;
   margin-top: 50px;
- 
 }
 
 .main{
@@ -24,10 +21,7 @@ p{
   margin-top: 100px;
   margin-bottom: 50px;
 }
-.content{
-  text-align: center;
-  /*height: 100px;*/
-}
+
 .content p{
   margin-top: 70px;
 }
@@ -37,9 +31,7 @@ button{
   border-radius: 15px;
   width: 400px;
   height: 100px;
-  color: black;
   font-size: 4.5em;
-  font-family: "Lato", sans-Serif;
   font-weight: 900;
   margin:10px;
 }
